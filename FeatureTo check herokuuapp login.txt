@@ -1,6 +1,6 @@
-Feature:To check herokuuapp login
+//Feature:To check herokuuapp login
 @selenium1
 Scenario: To validate herokuapp login positive validation
 Given i will launch the application url "https://the-internet.herokuapp.com/login"
 When i enter username as "tomsmith" and password as "SuperSecretPassword!"
-Then the user navigates to secure area page.
+Then the user navigates to secure area page....
